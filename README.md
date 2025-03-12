@@ -34,11 +34,24 @@ cd flappy-bird-clone
 
 Abra o arquivo flappy.html no seu navegador.
 
+## 🎮 Como Jogar
+
+Pressione a tecla espaço para fazer o passarinho voar.
+
+Solte a tecla para que o passarinho desça.
+
+O objetivo é passar pelos obstáculos sem colidir.
+
+A cada obstáculo ultrapassado, você ganha pontos.
+
+O jogo termina se o passarinho bater em um obstáculo.
+
 ## 📌 Observações
 
 O jogo não requer servidor, pois é desenvolvido apenas com tecnologias front-end.
 
 Certifique-se de que o navegador suporta JavaScript para o funcionamento correto do jogo.
 
-📷 Screenshot
+## 📷 Screenshot
 
+![Image](https://github.com/user-attachments/assets/eabeca07-79a9-4252-9e7d-c9825ff2e809)
